@@ -1,0 +1,39 @@
+1) Digito 0: OK
+<PIL.Image.Image image mode=L size=28x28 at 0x7FC5981560F0>
+El dígito es: 0
+
+2) Digito 2: OK
+<PIL.Image.Image image mode=L size=28x28 at 0x7FB101DA40F0>
+El dígito es: 2
+
+3) Digito 3: OK
+<PIL.Image.Image image mode=L size=28x28 at 0x7F312D79E240>
+El dígito es: 3
+
+4) Digito 3: OK
+<PIL.Image.Image image mode=L size=28x28 at 0x7F25ACCEC0F0>
+El dígito es: 3
+
+5) Digito 3: OK
+<PIL.Image.Image image mode=L size=28x28 at 0x7FBAE500A828>
+El dígito es: 3
+
+6) Digito 5: OK
+<PIL.Image.Image image mode=L size=28x28 at 0x7FDF3AF3DDD8>
+El dígito es: 5
+
+7) Digito 7: OK
+<PIL.Image.Image image mode=L size=28x28 at 0x7FF2A84BE0F0>
+El dígito es: 7
+
+8) Digito 8: OK
+<PIL.Image.Image image mode=L size=28x28 at 0x7FC360AD60F0>
+El dígito es: 8
+
+9) Dígito 9: OK
+<PIL.Image.Image image mode=L size=28x28 at 0x7F00F32870F0>
+El dígito es: 9
+
+10) Dígito 9: OK
+<PIL.Image.Image image mode=L size=28x28 at 0x7F1E9A184A90>
+El dígito es: 9

@@ -1,0 +1,25 @@
+(ampe) [ampe@fedora AMPE-P1]$ python3 validacion.py pesos-1.pt 
+Number Of Images Tested = 10000
+
+Model Accuracy = 0.9137
+
+(ampe) [ampe@fedora AMPE-P1]$ python3 validacion.py pesos-10.pt 
+Number Of Images Tested = 10000
+
+Model Accuracy = 0.9653
+
+
+(ampe) [ampe@fedora AMPE-P1]$ python3 validacion.py pesos-20.pt 
+Number Of Images Tested = 10000
+
+Model Accuracy = 0.9746
+
+(ampe) [ampe@fedora AMPE-P1]$ python3 validacion.py pesos-80.pt 
+Number Of Images Tested = 10000
+
+Model Accuracy = 0.982
+
+(ampe) [ampe@fedora AMPE-P1]$ python3 validacion.py pesos-160.pt
+Number Of Images Tested = 10000
+
+Model Accuracy = 0.978

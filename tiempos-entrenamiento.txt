@@ -1,0 +1,5 @@
+Tiempo de entrenamiento para 1 épocas: 3.9062156677246094 segundos
+Tiempo de entrenamiento para 10 épocas: 37.8280234336853 segundos
+Tiempo de entrenamiento para 20 épocas: 74.37392926216125 segundos
+Tiempo de entrenamiento para 80 épocas: 302.4550085067749 segundos
+Tiempo de entrenamiento para 160 épocas: 608.1859097480774 segundos
