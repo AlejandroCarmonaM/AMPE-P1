@@ -1,3 +1,5 @@
+cleaner.py con ImageFilter e ImageEnhanced
+
 0: OK
 1: OK
 2: OK
@@ -6,5 +8,17 @@
 5: OK
 6: NOT
 7: NOT
+8: NOT
+9: NOT
+
+cleaner.py sin ImageFilter e ImageEnhanced
+0: OK
+1: OK
+2: OK
+3: OK
+4: NOT
+5: NOT
+6: NOT
+7: OK
 8: NOT
 9: NOT
